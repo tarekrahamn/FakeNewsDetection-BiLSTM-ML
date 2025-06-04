@@ -7,7 +7,7 @@ This project focuses on detecting fake news using multiple machine learning clas
 - **True.csv**: Contains real news articles.
 - **Fake.csv**: Contains fake news articles.
 - Both datasets have been labeled (`1` for real, `0` for fake).
--  **Dataset Link ** : 
+-  **Dataset Link ** : https://drive.google.com/drive/folders/1h9mpfyQQRiKjXgCpM3xZEi4AdrHpC-PU?usp=sharing
 
 ## 📌 Features
 
