@@ -1,4 +1,4 @@
-# 📰 Fake News Detection using Machine Learning and Deep Learning
+# 📰 Fake News Detection Using Machine Learning and Deep Learning (NLP-Based)
 
 This project focuses on detecting fake news using multiple machine learning classifiers and a BiLSTM (Bidirectional LSTM) deep learning model. It uses the **True.csv** and **Fake.csv** datasets for training and evaluation.
 
